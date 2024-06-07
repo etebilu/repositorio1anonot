@@ -1,0 +1,4 @@
+(git clone https://github.com/SEU_USUARIO/calculadora-tk.git);
+(git checkout -b feature/nome_da_modificação);
+(git commit -m "Descrição da modificação");
+(git push origin feature/nome_modificação);
